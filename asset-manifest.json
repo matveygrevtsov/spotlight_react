@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/spotlight_react/static/css/main.54700489.chunk.css",
+    "main.js": "/spotlight_react/static/js/main.e549a56b.chunk.js",
+    "main.js.map": "/spotlight_react/static/js/main.e549a56b.chunk.js.map",
+    "runtime-main.js": "/spotlight_react/static/js/runtime-main.93e285dc.js",
+    "runtime-main.js.map": "/spotlight_react/static/js/runtime-main.93e285dc.js.map",
+    "static/js/2.c89fc41f.chunk.js": "/spotlight_react/static/js/2.c89fc41f.chunk.js",
+    "static/js/2.c89fc41f.chunk.js.map": "/spotlight_react/static/js/2.c89fc41f.chunk.js.map",
+    "static/js/3.df51d1da.chunk.js": "/spotlight_react/static/js/3.df51d1da.chunk.js",
+    "static/js/3.df51d1da.chunk.js.map": "/spotlight_react/static/js/3.df51d1da.chunk.js.map",
+    "index.html": "/spotlight_react/index.html",
+    "static/css/main.54700489.chunk.css.map": "/spotlight_react/static/css/main.54700489.chunk.css.map",
+    "static/js/2.c89fc41f.chunk.js.LICENSE.txt": "/spotlight_react/static/js/2.c89fc41f.chunk.js.LICENSE.txt",
+    "static/media/banana.d9bea2a3.png": "/spotlight_react/static/media/banana.d9bea2a3.png",
+    "static/media/donut.b4874661.png": "/spotlight_react/static/media/donut.b4874661.png",
+    "static/media/pizza.9df49508.png": "/spotlight_react/static/media/pizza.9df49508.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93e285dc.js",
+    "static/js/2.c89fc41f.chunk.js",
+    "static/css/main.54700489.chunk.css",
+    "static/js/main.e549a56b.chunk.js"
+  ]
+}
